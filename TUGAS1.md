@@ -1,14 +1,14 @@
 <h2 align="center"><b>Time Complexity dan Big-O Notation</b></h2>
-<br>
 
-Setiap programmer yang baik akan menggunakan cara yang paling efektif dan efisien dalam menyelesaikan suatu permasalahan. Dan untuk bisa melakukan hal tersebut, kita harus bisa meminimalisir kompleksitas dari algoritma yang kita gunakan.<br>
+
+Setiap programmer yang baik akan menggunakan cara yang paling efektif dan efisien dalam menyelesaikan suatu permasalahan. Dan untuk bisa melakukan hal tersebut, kita harus bisa meminimalisir kompleksitas dari algoritma yang kita gunakan.
 
 Kompleksitas suatu algoritma dibagi menjadi 2, yaitu __Time Complexity__ dan __Space Complexity__.
 1. __Time Complexity__ adalah seberapa lama waktu yang diperlukan untuk menjalankan suatu algoritma.
 2. __Space Complexity__ adalah seberapa besar memori yang kita gunakan untuk menjalankan suatu algoritma. Dan disini kita hanya akan membahas tentang Time Complexity.
 
 ***
-__Time Complexity Analysis__ adalah suatu cara sederhana untuk mengetahui berapa lama waktu yang dibutuhkan untuk menjalankan suatu algoritma dengan input tertentu (n). Biasanya lebih dikenal dengan sebutan __Big-O Notation__. Big O Notation digunakan untuk mengukur tingkat kompleksitas suatu algoritma.<br>
+__Time Complexity Analysis__ adalah suatu cara sederhana untuk mengetahui berapa lama waktu yang dibutuhkan untuk menjalankan suatu algoritma dengan input tertentu (n). Biasanya lebih dikenal dengan sebutan __Big-O Notation__. Big O Notation digunakan untuk mengukur tingkat kompleksitas suatu algoritma.
 
 __Big-O Notation adalah__ cara untuk mengkonversi keseluruhan langkah-langkah suatu algoritma kedalam bentuk Aljabar, yaitu dengan menghiraukan konstanta yang lebih kecil dan koefisien yang tidak berdampak besar terhadap keseluruhan kompleksitas permasalahan yang diselesaikan oleh algoritma tersebut.
 
@@ -23,7 +23,7 @@ Sederhananya, semua contoh yang ada diatas mengatakan bahwa __“kita hanya akan
 
 Terdapat beberapa macam time complexity, diantaranya:
 
-* __O(1) — Constant Time__<br>
+* __O(1) — Constant Time__
 __Constant Time artinya__ banyaknya input yang diberikan kepada sebuah algoritma, tidak akan mempengaruhi waktu proses (runtime) dari algoritma tersebut.
 
 ```
