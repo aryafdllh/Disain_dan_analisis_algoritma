@@ -40,7 +40,7 @@ Contoh diatas, terdapat sebuah fungsi untuk mengambil elemen pertama dari sebuah
 <p align="center">Constant Time></p>
 
 
-* __O(log n) — Logarithmic Time__<br>
+* __O(log n) — Logarithmic Time__
 __Logarithmic Time artinya__ ketika kita memberikan input sebesar n terhadap sebuah fungsi, jumlah tahapan yang dilakukan oleh fungsi tersebut berkurang berdasarkan suatu faktor. Salah satu contohnya adalah algoritma Binary Search. __Binary Search__ adalah algoritma yang kita gunakan dalam mencari posisi nilai dari suatu array dengan cara ‘mengeliminasi’ setengah dari array input untuk mempercepat proses pencarian.
 
 ```
@@ -66,7 +66,7 @@ isExists (27, sortedArray); // return false
 ```
 > Note: Fungsi rekursif biasanya Logarithmic
 
-* __O(n) — Linear Time__<br>
+* __O(n) — Linear Time__
 Linear Time adalah ketika runtime dari fungsi kita berbanding lurus dengan jumlah input yang diberikan.
 
 ```
@@ -87,7 +87,7 @@ Kita bisa melihat bahwa semakin banyak jumlah input yang diberikan, __maka waktu
 <p align="center"><img src="img/linear-time.png"></p>
 <p align="center">Linear Time></p>
 
-* __O(n²) — Quadratic Time__<br>
+* __O(n²) — Quadratic Time__
 Quadratic Time adalah ketika runtime dari fungsi kita adalah sebesar n^2, dimana n adalah jumlah input dari fungsi tersebut. Hal tersebut bisa terjadi karena kita menjalankan __fungsi linear didalam fungsi linear (n*n)__.
 
 ```
