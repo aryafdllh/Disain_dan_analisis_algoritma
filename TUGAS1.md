@@ -111,11 +111,11 @@ let sortedArray = sort(myArray);
 <p align="center">Quadratic Time></p>
 
 
-* __O(2^n) — Exponential Time__<br>
+* __O(2^n) — Exponential Time__
 Exponential Time biasanya digunakan dalam situasi dimana kita tidak terlalu tahu terhadap permasalahan yang dihadapi, sehingga mengharuskan kita mencoba setiap kombinasi dan permutasi dari semua kemungkinan.
 
 ***
-## KESIMPULAN<br>
+## KESIMPULAN
 Sebagai programmer, kita sering kali dihadapkan dengan adanya beberapa solusi untuk sebuah permasalahan dan kita dibingungkan dengan pertanyaan __“mana solusi yang lebih efisien?”__.
 
 Dengan memahami __Big-O Notation__, kita akan lebih mudah dalam melihat mana algoritma yang lebih efisien yang bisa kita gunakan untuk menyelesaikan permasalahan yang sedang dihadapi.
